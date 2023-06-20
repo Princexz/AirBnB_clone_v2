@@ -186,7 +186,7 @@ Usage: <class_name>.update(<_id>, <dictionary>)
 	
 ## Author: :black_nib:
 
-* [Prince Solomon] [princexz](https://github.com/princexz)
+* [ShadowP] [ShadowP2066](https://github.com/ShadowP2066)
 
 ## Acknowledgements :pray:
 
